@@ -1,2 +1,3 @@
 ## Usage
-Under the project, run commend line: npm run build
+Under the project, run commend line:
+    $ npm run build
